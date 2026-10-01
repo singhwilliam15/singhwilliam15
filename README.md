@@ -40,7 +40,7 @@ I'm looking for roles in **credit & market risk, quantitative research, equity r
 | Project | What it does | Key tech |
 | --- | --- | --- |
 | [**Trading-System**](https://github.com/singhwilliam15/Trading-System) | Modular investment decision platform: a macro regime engine (5 cycle phases from GDP, CPI, PMI, the yield curve and credit spreads), a stock screen (ROE, ROCE, EV/EBITDA, Piotroski F, Altman Z, Quality/Growth/Value/Momentum scores), technical trade plans, VaR/ES risk, and portfolio construction under position and sector limits | Python, pandas, Streamlit, yfinance, pytest |
-| [**VaR Risk Tool**](https://github.com/singhwilliam15/VaR-Tool) | Turns an Excel VaR workbook into a live portfolio risk dashboard: Historical, Parametric and Monte Carlo VaR, stress tests and VaR backtesting. A [companion version](https://github.com/singhwilliam15/VaR-Analysis-Tool) adds out-of-sample backtesting (Kupiec test, Basel traffic light) and exports a formatted multi-sheet Excel risk report | Python, NumPy, SciPy, Streamlit, openpyxl, pytest |
+| [**VaR Risk Tool**](https://github.com/singhwilliam15/VaR-Tool) | Turns an Excel VaR workbook into a live portfolio risk dashboard: Historical, Parametric and Monte Carlo VaR, stress tests and VaR backtesting. A [companion version](https://github.com/singhwilliam15/VaR-Analysis-Tool) compares six models (incl. Student-t, Cornish-Fisher, EWMA), backtests each out of sample (Kupiec, Christoffersen, Basel traffic light), runs beta-adjusted stress tests and exports an Excel risk report | Python, NumPy, SciPy, Streamlit, openpyxl, pytest |
 
 ### Areas of Interest
 
